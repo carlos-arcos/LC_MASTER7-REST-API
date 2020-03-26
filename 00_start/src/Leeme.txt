@@ -1,0 +1,5 @@
+Hola Jaime,
+
+como puedes ver, he creado cada una en un fichero.
+Simplemente descomenta el que quieras probar en app.js.
+
